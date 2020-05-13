@@ -2,3 +2,4 @@
 **/.vscode
 data/
 saved_model_info/
+tf-pose-estimation/
