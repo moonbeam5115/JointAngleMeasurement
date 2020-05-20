@@ -31,11 +31,11 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 *Instructions to follow
 
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_001.jpg" width="120">
-
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="120">
 *description
 
 
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="120">  
+  
 *description   
 
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="120">
