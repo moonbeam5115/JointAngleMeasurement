@@ -55,7 +55,7 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 &nbsp;  
 *description
 
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="400">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="360">
 
 &nbsp;
 &nbsp;
