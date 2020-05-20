@@ -33,22 +33,22 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 <div>
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_001.jpg" width="120">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="120">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="120">
 </div>
 *description
 
-
-  
-*description   
-
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="120">
-
-*description 
-
+<div>
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_001.jpg" width="120">
-
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_002.jpg" width="120">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_003.jpg" width="120">
+</div>
 *description
 
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_002.jpg" width="120">
+<div>
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="120">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_002.jpg" width="120">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_003.jpg" width="120">
+</div>
 
 *description
 &nbsp;  
@@ -64,21 +64,7 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 
 *description
 
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="120">
 
-&nbsp;
-&nbsp;
- 
-*description
-
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="120">
-
-&nbsp;
-&nbsp;
-
-*description
-
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="120">
 
 &nbsp;
 &nbsp;
