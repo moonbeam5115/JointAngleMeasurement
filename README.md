@@ -49,19 +49,24 @@ The predictive results of both the classifier and joint detection models was ver
 </div>
 
 <div>
+  <p align="center">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_001.jpg" width="275">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_002.jpg" width="275">
+  </p>
 </div>
 
 <div>
+  <p align="center">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="275">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_003.jpg" width="275">
+  </p>
 </div>
 
 &nbsp;  
 &nbsp;   
 **Pose Classification, Joint Detection and Joint Angle Measurement:**
 
+<p align="center">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="360">
 </p>
 
