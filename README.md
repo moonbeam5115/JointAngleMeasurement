@@ -40,7 +40,7 @@ The predictive results of both the classifier and joint detection models was ver
 
 <div align="center">
   
-**Pose Classification and Joint Detection Results:**
+**Pose Classification and Joint Detection**
 </div>
 
 <div>
@@ -68,7 +68,7 @@ The predictive results of both the classifier and joint detection models was ver
 &nbsp;
 <div align="center">
 
-**Pose Classification, Joint Detection and Joint Angle Measurement:**
+**Pose Classification, Joint Detection and Joint Angle Measurement**
 </div>
 
 <p align="center">
