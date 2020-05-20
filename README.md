@@ -30,7 +30,7 @@ Option 1: Install base docker container and then install libraries and dependenc
 Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies
 *Instructions to follow
 
-![Results](/img/pred_result_arm_raise_001.jpg =250x250)
+![Results](/img/pred_result_arm_raise_001.jpg =50x50)
 
 *description
 
