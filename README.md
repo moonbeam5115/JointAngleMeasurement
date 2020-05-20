@@ -31,23 +31,23 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 *Instructions to follow
 
 <div>
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_001.jpg" width="180">
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="180">
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="180">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_001.jpg" width="224">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="224">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="224">
 </div>
 *description
 
 <div>
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_001.jpg" width="180">
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_002.jpg" width="180">
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_003.jpg" width="180">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_001.jpg" width="224">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_002.jpg" width="224">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_003.jpg" width="224">
 </div>
 *description
 
 <div>
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="180">
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_002.jpg" width="180">
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_003.jpg" width="180">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="224">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_002.jpg" width="224">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_003.jpg" width="224">
 </div>
 
 *description
@@ -57,7 +57,7 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 &nbsp;  
 *description
 
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="180">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="224">
 
 &nbsp;
 &nbsp;
