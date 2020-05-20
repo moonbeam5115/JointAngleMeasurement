@@ -35,10 +35,10 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 *description
 
 
-![Results](/img/pred_result_arm_raise_002.jpg)
+![Results](/img/pred_result_arm_raise_002.jpg)  <!-- .element height="1%" width="1%" -->
 *description   
 
-![Results](/img/pred_result_arm_raise_003.jpg)
+![Results](/img/pred_result_arm_raise_003.jpg)  <!-- .element height="1%" width="1%" -->
 
 *description 
 
