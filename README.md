@@ -39,6 +39,7 @@ The predictive results of both the classifier and joint detection models was ver
 &nbsp;
 
 <div align="center">
+  
 **Pose Classification and Joint Detection Results:**
 </div>
 
@@ -64,8 +65,11 @@ The predictive results of both the classifier and joint detection models was ver
 </div>
 
 &nbsp;  
-&nbsp;   
+&nbsp;
+<div align="center">
+
 **Pose Classification, Joint Detection and Joint Angle Measurement:**
+</div>
 
 <p align="center">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="360">
