@@ -35,18 +35,18 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 *description
 
 
-![Results](/img/pred_result_arm_raise_002.jpg)  
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="120">  
 *description   
 
-![Results](/img/pred_result_arm_raise_003.jpg) 
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="120">
 
 *description 
 
-![Results](/img/pred_result_bending_001.jpg)
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_001.jpg" width="120">
 
 *description
 
-![Results](/img/pred_result_bending_002.jpg
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_bending_002.jpg" width="120">
 
 *description
 &nbsp;  
@@ -55,28 +55,28 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 &nbsp;  
 *description
 
-![Results](/img/pred_result_jointAngle_001.jpg)
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="120">
 
 &nbsp;
 &nbsp;
 
 *description
 
-![Results](/img/pred_result_squat_001.jpg)
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="120">
 
 &nbsp;
 &nbsp;
  
 *description
 
-![Results](/img/pred_result_squat_002.jpg)
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="120">
 
 &nbsp;
 &nbsp;
 
 *description
 
-![Results](/img/pred_result_squat_003.jpg)
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_squat_001.jpg" width="120">
 
 &nbsp;
 &nbsp;
