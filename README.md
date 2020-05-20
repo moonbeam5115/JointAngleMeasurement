@@ -15,10 +15,12 @@ Given an image, the Pose Analyzer does 3 things:
 
 # Background Information
 
-* In 2018, 34.2 million Americans, or 10.5% of the population, had diabetes
-* The estimated total economic cost of diagnosed diabetes in 2012 is $245 billion, a 41% increase from our previous estimate of $174 billion (in 2007 dollars)
-* Exercise helped to lower insulin resistance in previously sedentary older adults with abdominal obesity at risk for diabetes (Resistance training and aerobic) - Harvard Study
-* Cross sectional, prospective and retrospective studies have found significant association between physical inactivity and Type 2 Diabetes
+* This project utilizes 2 deep learning models to classify and then detect joint positions for a given input image
+* Pose clasification is a much easier problem than pose estimation
+* This project utilizes the VGG16 model as a base model for transfer learning and predicting poses from images
+* Pose estimation is difficult due to joint occlusion, clothing, the degrees of freedom in a human body and more
+* This project utilizes the OpenPose model by the folks over at CMU to detect joint positions. Their method for joint detection involves part affinity maps (PAFs) and heat maps -- github link
+* This project also aims to measure key joint angles depending on the detected pose -- (to be implemented at a future time)
 
 # Requirements to Run This Project
 
@@ -31,6 +33,8 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 *Instructions to follow
 
 # Results
+
+The predictive results of both the classifier and joint detection models was very impressive. Despite being only trained on 285 images, the pose classifier performed at ~97% accuracy for the validation and test sets. Although very impressive, the models did make mistakes that humans would consider "silly." This begs the question as to how these algorithms are actually "learning" and what it means to learn something altogether. 
 <div>
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="275">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="275">
@@ -71,19 +75,19 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 
 # Conlusion
 
-* More studies should be conducted to analyze the impact of lifestyle on type 2 Diabetes: Exercise, Sleep, Nutrition, Stress Levels, Drug Use
-* Exercise can lower insulin resistance and should be incorporated into a holistic treatment for people suffering from diabetes
-* Although the relationship between nutrition and diabetes is complex, the most harmful products to consume are carbonated beverages
-* Other factors like lack of sleep seem to have a high correlation with diabetes incidence - why?
+* Transfer learning can be a very effective way to train a classifier given smaller datasets
+* OpenPose provides very accurate human pose estimation and can be used for joint angle measurement
+* Although very impressive, these deep learning models still make errors on seemingly simple classification problems
+* Pose classification and joint angle measurement has the potential to be used in many applications including sports and rehabiliation performance as well as human-computer interaction systems
 
-# Next Steps
-* Gather more accurate information about lifestyle choices
+# Future Direction
+* This current version only measures joint angles for specific cases of squatting poses. I would like to generalize the algorithm to measure and display joint angles for all other available poses
 
-* Gather information about economic burden due to diabetes
+* Update the classifier model to detect more poses
 
-* Figure out what kind of effect exercise and better nutrition would have on diabetes related healthcare costs
+* Automate the joint angle measurement
 
-* Adjust the analysis to include the population size
+* Update the algorithms/models for real time video analysis of joint positions, angles and velocities
 
 # References
 *description
