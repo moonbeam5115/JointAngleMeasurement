@@ -37,7 +37,7 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 The predictive results of both the classifier and joint detection models was very impressive. Despite being only trained on 285 images, the pose classifier performed at ~97% accuracy for the validation and test sets. Although very impressive, the models did make mistakes that humans would consider "silly." This begs the question as to how these algorithms are actually "learning" and what it means to learn something altogether.
 
 &nbsp;
-&nbsp;
+
 **Pose Classification and Joint Detection Results:**
 <div>
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="275">
