@@ -30,6 +30,7 @@ Option 1: Install base docker container and then install libraries and dependenc
 Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies
 *Instructions to follow
 
+# Results
 <div>
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_002.jpg" width="275">
 <img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_arm_raise_003.jpg" width="275">
@@ -54,7 +55,7 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 &nbsp;  
 *description
 
-<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="350">
+<img src="https://github.com/moonbeam5115/JointAngleMeasurement/blob/master/img/pred_result_jointAngle_001.jpg" width="400">
 
 &nbsp;
 &nbsp;
