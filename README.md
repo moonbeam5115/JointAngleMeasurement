@@ -30,23 +30,23 @@ Option 1: Install base docker container and then install libraries and dependenc
 Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies
 *Instructions to follow
 
-![Inactive Data Distr](/img/InactiveDataDistr.png)
+![Results](/img/pred_result_arm_raise_001.jpg)
 
 *description
 
 
-![Total Data Distr](/img/TotalDataDistr.png)
+![Results](/img/pred_result_arm_raise_002.jpg)
 *description   
 
-![Percent Obese USA](/img/PercentObeseUSA.png)
+![Results](/img/pred_result_arm_raise_003.jpg)
 
 *description 
 
-![Percent Inactive USA](/img/PercentInactiveUSA.png)
+![Results](/img/pred_result_bending_001.jpg)
 
 *description
 
-![Percent FrtVeg USA](/img/PercentFrtVegUSA.png)
+![Results](/img/pred_result_bending_002.jpg
 
 *description
 &nbsp;  
@@ -55,28 +55,28 @@ Option 2: (Recommended) Pull docker image with all necessary libraries and depen
 &nbsp;  
 *description
 
-![Corr Hlth Var 01](/img/CorrHealthVar01.png)
+![Results](/img/pred_result_jointAngle_001.jpg)
 
 &nbsp;
 &nbsp;
 
 *description
 
-![Corr Hlth Var 02](/img/CorrHlthVar02.png)
+![Results](/img/pred_result_squat_001.jpg)
 
 &nbsp;
 &nbsp;
  
 *description
 
-![Drinking Diabetes Joint](/img/DrinkingDiabetesJoint.png)
+![Results](/img/pred_result_squat_002.jpg)
 
 &nbsp;
 &nbsp;
 
 *description
 
-![Total Correlation 01](/img/TotalCorrelation01.png)
+![Results](/img/pred_result_squat_003.jpg)
 
 &nbsp;
 &nbsp;
