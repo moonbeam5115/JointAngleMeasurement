@@ -43,18 +43,18 @@ nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04
 Make sure to start your docker container
 Execute bash inside of your container and run in terminal:
 
-  $ apt update
-  $ apt upgrade 
-  $ apt install python3-pip
-  $ apt install python3.7 (3.6.9 for keras compatibility)
-  $ pip3 install --upgrade pip
-  $ pip3 install --upgrade pip3
-  $ apt install wget
-  $ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  $ apt update  
+  $ apt upgrade  
+  $ apt install python3-pip  
+  $ apt install python3.7 (3.6.9 for keras compatibility)  
+  $ pip3 install --upgrade pip  
+  $ pip3 install --upgrade pip3  
+  $ apt install wget  
+  $ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh  
 
 Navigate to your project folder
 
-  $ cd home/DeepLearningMachine
+  $ cd home/DeepLearningMachine  
   $ conda create -n CVenv --prefix ./envs python3 notebook numpy scipy pandas matplotlib
 
 **3. INSTALL FOLLOWING LIBRARIES AND DEPENDENCIES**
