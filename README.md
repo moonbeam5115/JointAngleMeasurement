@@ -27,7 +27,63 @@ Given an image, the Pose Analyzer does 3 things:
 This project requires quite a few libraries and dependencies. It is recommended that you install a docker container as well as a virtual environment in order to run this project.
 
 Option 1: Install base docker container and then install libraries and dependencies
-*Instructions to follow
+
+**1. INSTANTIATE A CONTAINER WITH NVIDIA CUDA/CUDNN/UBUNTU**
+
+docker run -it \
+--gpus all \
+--name AIMachine \
+-v “$PWD”/DeepLearningMachine:/home/DeepLearningMachine \
+-p 8888:8888 \
+-p 6006:6006 \
+nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04
+
+**2. INSTALL MINICONDA AND SET UP VIRTUAL ENVIRONMENT**
+
+Make sure to start your docker container
+Execute bash inside of your container and run in terminal:
+  $ apt update
+	$ apt upgrade 
+	$ apt install python3-pip
+	$ apt install python3.7 (3.6.9 for keras compatibility)
+	$ pip3 install --upgrade pip
+	$ pip3 install --upgrade pip3
+  $ apt install wget
+  $ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+Navigate to your project folder
+  $ cd home/DeepLearningMachine
+  $ conda create -n CVenv --prefix ./envs python3 notebook numpy scipy pandas matplotlib
+
+**3. INSTALL FOLLOWING LIBRARIES AND DEPENDENCIES**
+
+In your new Conda Environment (CVenv), install the following:
+  $ conda activate CVenv
+  
+  $ apt install python3-pip
+	$ apt install python3.7 (3.6.9 for keras compatibility)
+	$ pip3 install --upgrade pip
+	$ pip3 install --upgrade pip3
+  
+  Tensorflow			2.1.0
+  Keras – PyDot, Graphviz
+  OpenCV			4.3.0
+  Seaborn
+  Sci-kit Learn
+  Git
+
+**4. CLONE THIS REPOSITORY AND RUN THE CODE**
+  
+Once you have your docker container and conda environment set up, navigate to the appropriate folder and you can git clone this repo to begin running the code!
+  
+  $ cd home/DeepLearningMachine
+  $ git clone https://github.com/moonbeam5115/JointAngleMeasurement.git
+  
+  $ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
+
+Connect to your localhost via the browser (port 8888)
+  https://localhost:8888
+
 
 Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies
 *Instructions to follow
