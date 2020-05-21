@@ -61,8 +61,7 @@ Navigate to your project folder
 
 In your new Conda Environment (CVenv), install the following:
 
-  $ conda activate CVenv
-  
+  $ conda activate CVenv  
   $ apt install python3-pip  
   $ apt install python3.7 (3.6.9 for keras compatibility)  
   $ pip3 install --upgrade pip  
@@ -80,8 +79,7 @@ In your new Conda Environment (CVenv), install the following:
 Once you have your docker container and conda environment set up, navigate to the appropriate folder and you can git clone this repo to begin running the code!
   
   $ cd home/DeepLearningMachine  
-  $ git clone https://github.com/moonbeam5115/JointAngleMeasurement.git
-  
+  $ git clone https://github.com/moonbeam5115/JointAngleMeasurement.git  
   $ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
 Connect to your localhost via the browser (port 8888)  
