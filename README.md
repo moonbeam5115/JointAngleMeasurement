@@ -26,7 +26,7 @@ Given an image, the Pose Analyzer does 3 things:
 
 This project requires quite a few libraries and dependencies. It is recommended that you install a docker container as well as a virtual environment in order to run this project.
 
-Option 1: Install base docker container and then install libraries and dependencies
+**Option 1: Install base docker container and then install libraries and dependencies**
 
 **1. INSTANTIATE A CONTAINER WITH NVIDIA CUDA/CUDNN/UBUNTU**
 
@@ -79,16 +79,17 @@ In your new Conda Environment (CVenv), install the following:
   
 Once you have your docker container and conda environment set up, navigate to the appropriate folder and you can git clone this repo to begin running the code!
   
-  $ cd home/DeepLearningMachine
+  $ cd home/DeepLearningMachine  
   $ git clone https://github.com/moonbeam5115/JointAngleMeasurement.git
   
   $ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
-Connect to your localhost via the browser (port 8888)
+Connect to your localhost via the browser (port 8888)  
   https://localhost:8888
 
+&nbsp;
 
-Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies
+Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies  
 *Instructions to follow
 
 # Results
