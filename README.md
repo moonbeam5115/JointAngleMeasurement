@@ -63,22 +63,17 @@ In your new Conda Environment (CVenv), install the following:
 
   $ conda activate CVenv
   
-  $ apt install python3-pip
-  $ apt install python3.7 (3.6.9 for keras compatibility)
-  $ pip3 install --upgrade pip
-  $ pip3 install --upgrade pip3
+  $ apt install python3-pip  
+  $ apt install python3.7 (3.6.9 for keras compatibility)  
+  $ pip3 install --upgrade pip  
+  $ pip3 install --upgrade pip3  
   
-  Tensorflow 2.1.0
-  
-  Keras – PyDot, Graphviz
-  
-  OpenCV 4.3.0
-  
-  Seaborn
-  
-  Sci-kit Learn
-  
-  Git
+  Tensorflow 2.1.0  
+  Keras – PyDot, Graphviz  
+  OpenCV 4.3.0  
+  Seaborn    
+  Sci-kit Learn  
+  Git  
 
 **4. CLONE THIS REPOSITORY AND RUN THE CODE**
   
