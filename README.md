@@ -87,7 +87,7 @@ Connect to your localhost via the browser (port 8888)
 
 &nbsp;
 
-Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies  
+**Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies**  
 *Instructions to follow
 
 # Results
