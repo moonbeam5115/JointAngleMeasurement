@@ -88,7 +88,15 @@ Connect to your localhost via the browser (port 8888)
 &nbsp;
 
 **Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies**  
-*Instructions to follow
+Set up a docker container by pulling the image from my dockerhub:  
+
+docker run -it \
+--gpus all \
+--name AIMachine \
+-v “$PWD”/yourprojectfolder:/home/DeepLearningMachine \
+-p 8888:8888 \
+-p 6006:6006 \
+moonbeam5115/computervision_img_01:cv-tf  
 
 # Results
 
