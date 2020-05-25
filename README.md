@@ -100,7 +100,6 @@ $ docker run -it \
 moonbeam5115/computervision_img_01:cv-tf  
 
 &nbsp;
-  
 *replace **yourprojectfolder** with the name of your folder*
 
 &nbsp;
