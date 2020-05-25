@@ -98,7 +98,8 @@ $ docker run -it \
 -p 8888:8888 \
 -p 6006:6006 \
 moonbeam5115/computervision_img_01:cv-tf  
-  
+
+&nbsp;
   
 *replace **yourprojectfolder** with the name of your folder*
 
