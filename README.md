@@ -87,10 +87,11 @@ Connect to your localhost via the browser (port 8888)
 
 &nbsp;
 
-**Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies**  
+**Option 2: (Recommended) Pull docker image with all necessary libraries and dependencies**    
+
 Set up a docker container by pulling the image from my dockerhub:  
 
-docker run -it \
+$ docker run -it \
 --gpus all \
 --name AIMachine \
 -v “$PWD”/yourprojectfolder:/home/DeepLearningMachine \
