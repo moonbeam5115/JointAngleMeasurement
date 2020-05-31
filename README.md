@@ -106,7 +106,7 @@ moonbeam5115/computervision_img_01:cv-tf
 
 # Results
 
-The predictive results of both the classifier and joint detection models was very impressive. Despite being only trained on 285 images, the pose classifier performed at ~97% accuracy for the validation and test sets. Although very impressive, the models did make mistakes that humans would consider "silly." This begs the question as to how these algorithms are actually "learning" and what it means to learn something altogether.
+The predictive results of both the classifier and joint detection models were very impressive. Despite being only trained on 285 images, the pose classifier performed at ~97% accuracy for the validation and test sets. Although very impressive, the models did make mistakes that humans would consider "silly." This begs the question as to how these algorithms are actually "learning" and what it means to learn something altogether.
 
 &nbsp;
 
