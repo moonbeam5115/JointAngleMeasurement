@@ -167,4 +167,7 @@ The predictive results of both the classifier and joint detection models were ve
 * Update the algorithms/models for real time video analysis of joint positions, angles and velocities
 
 # References
-*description
+[1] https://github.com/CMU-Perceptual-Computing-Lab/openpose  
+[2] Simonyan K, ZissermanVery A (2014) Deep Convolutional Networks for Large-Scale Image Recognition: arXiv:1409.1556  
+[3] Sheik Y A et al. (2019) Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields  
+[4] Google Images
